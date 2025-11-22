@@ -2,7 +2,7 @@
 
 La API de Login proporciona un sistema completo de autenticación y gestión de usuarios. Incluye funcionalidades esenciales para el control de acceso y administración de cuentas, tanto para usuarios normales como con roles asignados.
 
-***--- Funcionalidades principales ---**
+**--- Funcionalidades principales ---**
 
  - Registro de usuarios (con y sin rol asignado).
  - Inicio y cierre de sesión.
